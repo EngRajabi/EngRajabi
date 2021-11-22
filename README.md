@@ -24,7 +24,7 @@
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
 
-- 💬 Ask me about: .NET, Clean Architecture, Micro Services, DDD
+- 💬 Ask me about: .NET, Clean Architecture, Micro Services
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
