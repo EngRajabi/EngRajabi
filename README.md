@@ -8,6 +8,10 @@
  <a href="https://twitter.com/mohsen_rajabi72" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
+ 
+ <a href="https://medium.com/@mohsen_rajabi" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/null/medium-logo.png" />
+ </a>
 </p>
 
 <p align="center"> 
